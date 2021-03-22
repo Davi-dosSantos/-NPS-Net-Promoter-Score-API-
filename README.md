@@ -11,3 +11,5 @@ Project worked during nlw, an NPS API ( Net promoter score)
 ## :link: Endpoints
 
 # :bust_in_silhouette: Author
+
+Davi dos Santos Costa
